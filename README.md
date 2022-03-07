@@ -11,5 +11,5 @@ Basic JWT for back-end application
 
 ## Author
 
-Source code created by <a href="trungquandev.com">trungquandev.com</a>
+Source code created by trungquandev.com
 
